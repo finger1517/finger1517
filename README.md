@@ -3,8 +3,9 @@
 
 I'm Yuantao Yang, a graduated M.Sc in Computational Mathematics. based in Beijing, China!
 
-- 💻 I am currently working as a ***Machine Learning Engineer*** at **Alibaba Cloud**.
+- 💻 I am currently working as a ***Algorithm Engineer*** at **ZhipuAI**, focusing on LLM evaluation.
 - 🔭 I have previously worked as a:
+   - ***Machine Learning Engineer*** at **Alibaba Cloud**. 
    - **Recommendation Algorithm Engineer Intern** in **AntGroup** a e-finance Group.
    - **Student Research Intern** at **Najing Center of Applied Mathematics** Nanjing.
 
