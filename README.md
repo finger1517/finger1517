@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
 
-I'm Yuantao Yang, LLM Engineer, Focusing on LLM ability evaluation and safety. 
-Currently Based in Beijing, China.
+I'm Yuantao Yang, LLM Engineer, Focusing on LLM ability evaluation and safety. \\
+Currently Based in Beijing, China.\\
 I graduated from SEU, majoring in Computational Mathematics. 
 
 - 💻 I am currently working as a ***Algorithm Engineer*** at **ZhipuAI**, focusing on LLM evaluation.
